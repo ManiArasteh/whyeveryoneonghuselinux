@@ -11,4 +11,6 @@ Run the Python file named `notsec.py` in root directory of this repository. It w
 
 This is why I don't like Linux.
 
+No Microsoft Office! No Photoshop! No Premiere Pro! Nothing avaliable for Linux! Alternatives can't replace the real software!
+
 `#MigrateToWindows` Tag this in social media
